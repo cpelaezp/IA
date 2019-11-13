@@ -1,0 +1,6 @@
+news_sites:
+  eluniversal:
+    url: https://eluniversal.com.mx
+  elpais:
+    url: https://elpais.com
+    
